@@ -1,9 +1,9 @@
 ### Bienvenu  👋
 
-- 🔭 I’m currently working on APPLICHAT
+- 🔭 I’m currently working on WordPress buikding page and build websit for a restaurant sushi pizza
 
 
-- 🌱 I’m currently learning Wordpress
+- 🌱 I’m currently learning building a plugin WordPress
 
 
 <!--
