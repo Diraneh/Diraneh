@@ -1,6 +1,6 @@
 ### Bienvenu  👋
 
-- 🔭 I’m currently working on WordPress buikding page and build websit for a restaurant sushi pizza
+- 🔭 I’m currently working on WordPress building page and build websit for a restaurant sushi pizza
 
 
 - 🌱 I’m currently learning building a plugin WordPress
