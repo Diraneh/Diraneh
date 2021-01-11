@@ -1,9 +1,14 @@
 ### Bienvenu  👋
 
-- 🔭 I’m currently working on WordPress building page and build websit for a restaurant sushi pizza
+- 🔭 I’m currently working on : 
+
+       🌱 building  Wordpress plugin connect with API 
+      
+      
+       
+       👯 building websit for a restaurant sushi pizza with MVC 
 
 
-- 🌱 I’m currently learning building a plugin WordPress
 
 
 <!--
@@ -15,7 +20,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-
+-- 🌱 I’m currently learning 
 -
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
