@@ -2,12 +2,11 @@
 
 - 🔭 I’m currently working on : 
 
-       🌱 building  Wordpress plugin connect with API 
+       🌱 
       
       
        
-       👯 building websit for a restaurant sushi pizza with MVC 
-
+       👯 
 
 
 
