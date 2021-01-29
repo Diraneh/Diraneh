@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on : 
 
-       🌱 Wesh Shopping
+       🌱 Wish Shopping
       
       
        
