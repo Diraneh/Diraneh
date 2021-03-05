@@ -8,5 +8,4 @@
        
        👯 
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+[linkedin](https://www.linkedin.com/in/elmi-diraneh-86a0331b7/)
