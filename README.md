@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on : 
 
-       🌱 Développement d'une platforme de colocation
+       🌱 Développement d'une platform de colocation
       
       
        
