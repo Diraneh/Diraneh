@@ -4,13 +4,7 @@
 
        🌱 Développement d'une application en JAVA
       
-     
-      
-      
-      
-       
-    
-       [title](https://www.example.com)
+
 
 [linkedin](https://www.linkedin.com/in/elmi-diraneh-86a0331b7/)
 
